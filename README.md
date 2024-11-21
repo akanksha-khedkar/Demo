@@ -1,3 +1,3 @@
 # Demo
 Demo repository
-Author = Akanksha Khedkar 
+Author = Akanksha N Khedkar 
